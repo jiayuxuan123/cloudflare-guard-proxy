@@ -208,7 +208,8 @@ Edit `allowedOrigins` array in `worker.js` to add your domains.
 
 ## 日本語
 
-**Cloudflare Workers** と **KV Storage** で構築された CORS プロキシゲートウェイ。バックエンドロジックに特化。**フロントエンドは提供されません。各自で実装してください。**
+**Cloudflare Workers** と **KV Storage** で構築された CORS プロキシゲートウェイ。
+バックエンドロジックに特化。**フロントエンドは提供されません。各自で実装してください。**
 
 ### ✨ 主な機能
 * **CORS プロキシ**: フロントエンドのクロスドメイン問題を解決。
