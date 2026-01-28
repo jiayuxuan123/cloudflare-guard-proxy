@@ -1,6 +1,6 @@
 {
   "name": "cloudflare-guard-proxy",
-  "version": "1.0.0",
+  "main": "worker.js",
   "scripts": {
     "deploy": "wrangler deploy"
   }
