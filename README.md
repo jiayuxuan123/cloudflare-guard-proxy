@@ -1,9 +1,9 @@
 # 🛡️ CloudGuard Proxy (Yunluo Gateway)
 
-[简体中文](#简体中文) | [English](#english) | [日本語](#日本語)
-
+[简体中文](#chinese) | [English](#english) | [日本語](#japanese)
 ---
 
+<a id="chinese"></a>
 ## 简体中文
 
 这是一个基于 **Cloudflare Workers** 和 **KV 存储** 构建的轻量级跨域代理网关。它专注于后端转发逻辑，不提供统一前端页面，调用需自写。
@@ -206,6 +206,7 @@ Edit `allowedOrigins` array in `worker.js` to add your domains.
 
 ---
 
+<a id="japanese"></a>
 ## 日本語
 
 **Cloudflare Workers** と **KV Storage** で構築された CORS プロキシゲートウェイ。
